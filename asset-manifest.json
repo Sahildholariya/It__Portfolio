@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/It__Portfolio%20/static/css/main.5102febf.css",
+    "main.js": "/It__Portfolio%20/static/js/main.fe75cce1.js",
+    "static/media/remixicon.svg?t=1702724036775": "/It__Portfolio%20/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/light-hero-bg.jpg": "/It__Portfolio%20/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
+    "static/media/about-us.jpg": "/It__Portfolio%20/static/media/about-us.9446fb0339368a482c2c.jpg",
+    "static/media/appture.png": "/It__Portfolio%20/static/media/appture.b53809072f39c9588f72.png",
+    "static/media/remixicon.eot?t=1702724036775": "/It__Portfolio%20/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/It__Portfolio%20/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/ava-1.jpg": "/It__Portfolio%20/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/It__Portfolio%20/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/It__Portfolio%20/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/It__Portfolio%20/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/team-02.png": "/It__Portfolio%20/static/media/team-02.04ead291f3a898cb5195.png",
+    "static/media/team-03.png": "/It__Portfolio%20/static/media/team-03.6890a8fee90cc064c74d.png",
+    "static/media/remixicon.woff2?t=1702724036775": "/It__Portfolio%20/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/team-04.png": "/It__Portfolio%20/static/media/team-04.5e52442e35087efbabf0.png",
+    "static/media/video.png": "/It__Portfolio%20/static/media/video.738b5aed181ea69d0960.png",
+    "static/media/hero-img.png": "/It__Portfolio%20/static/media/hero-img.d253c017c57be8422f18.png",
+    "static/media/team-01.png": "/It__Portfolio%20/static/media/team-01.b05696393eabab46199e.png",
+    "static/media/article.png": "/It__Portfolio%20/static/media/article.1a0e78634738b71d43ca.png",
+    "static/media/case-study.png": "/It__Portfolio%20/static/media/case-study.e2b9562a6c09692e288e.png",
+    "static/media/slick.svg": "/It__Portfolio%20/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/It__Portfolio%20/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/It__Portfolio%20/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/It__Portfolio%20/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/It__Portfolio%20/index.html",
+    "main.5102febf.css.map": "/It__Portfolio%20/static/css/main.5102febf.css.map",
+    "main.fe75cce1.js.map": "/It__Portfolio%20/static/js/main.fe75cce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5102febf.css",
+    "static/js/main.fe75cce1.js"
+  ]
+}

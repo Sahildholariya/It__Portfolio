@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Text Writing Animation</title>
+    <style>
+        body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.typing-text {
+    border-right: .15em solid orange; /* Adjust the color and thickness as needed */
+    white-space: nowrap;
+    font-size: 1.5em; /* Adjust the font size as needed */
+    animation: typing 3s steps(50, end), blink-caret .5s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: orange; }
+}
+
+    </style>
+</head>
+<body>
+    <div class="typing-text">Hello, world!</div>
+</body>
+</html>
